@@ -1,3 +1,3 @@
 # hello-git
 
-# hello goodbye and hello
+# test repository for GitHub.
